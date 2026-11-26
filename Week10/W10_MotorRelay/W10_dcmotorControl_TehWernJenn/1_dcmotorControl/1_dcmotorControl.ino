@@ -1,5 +1,5 @@
 /*
-  DM3014 Interactive Devices, Ashley Hi 2026
+  DM3014 Interactive Devices, Teh Wern Jenn 2026
   Week 10 - Motors & Relays
   ESP32-C3 DC Motor Control
   Start, stop, and change direction of motor.
